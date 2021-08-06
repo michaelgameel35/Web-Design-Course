@@ -1,0 +1,10 @@
+.m1 {display: flex;  text-align: center; background-color: blueviolet; height: 80px;}
+
+.m1 a { padding: 100px; text-align: center; width: 10%; height: 5px; background-color: blueviolet;
+border: 1px solid white;}
+
+header {background-color: rgb(248, 65, 33); margin-bottom: 10px; text-align: center; padding: 20px;}
+
+.m2  {display: flex; margin-top: 145px;background-color: rgb(161, 161, 98); height: 250px;} 
+
+.m2 article {padding-left: 20px;}
